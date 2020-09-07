@@ -1,9 +1,0 @@
-# Book settings
-title: Jupyter使用教學
-author: 記萱老公
-
-latex:
-  latex_documents:
-    targetname: book.tex
-
-theme: jekyll-theme-cayman
