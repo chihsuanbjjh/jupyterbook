@@ -1,8 +1,0 @@
-# Book settings
-title: Python Notes
-author: Yongfu Liao
-logo: logo.png
-
-latex:
-  latex_documents:
-    targetname: book.tex
